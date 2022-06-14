@@ -7,6 +7,6 @@
 
 **Folkert Leistra**&emsp;| S3469573
 
-**Joren Arkes**&emsp;&emsp;&emsp;&emsp;&emsp;| S3545881
+**Joren Arkes**&emsp;| S3545881
 
-**Thijmen Dam**&emsp;&emsp;&emsp;| S3360695
+**Thijmen Dam**&emsp;| S3360695
