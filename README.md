@@ -1,4 +1,4 @@
-# Semantic Types of premises
+# Semantic Types of Premises
 ### Language Technology Project - Task 4
 
 ## Contributers
