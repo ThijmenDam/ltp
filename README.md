@@ -30,6 +30,17 @@ To run the code that belongs to the first subtask, you have to navigate to the [
 This notebook contains all the code necessary for completing the first subtask. Additional documentation can be  found within this notebook.
 
 ## Contents
-``tree -d -L 2``
+```
+.
+├── data
+│   ├── figures         # Figures for data analysis
+│   ├── subtask-1       # All data for ST1
+│   ├── subtask-2       # All data for ST2
+│   ├── v2.0            # Original data
+│   └── v2.0-processed  # Data processed
+├── subtask-1                 # All files used for ST1
+├── subtask-2                 # All files used for ST2
+
+```
 
 
