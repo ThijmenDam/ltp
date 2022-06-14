@@ -38,8 +38,8 @@ This notebook contains all the code necessary for completing the first subtask. 
 │   ├── subtask-2       # All data for ST2
 │   ├── v2.0            # Original data
 │   └── v2.0-processed  # Data processed
-├── subtask-1                 # All files used for ST1
-├── subtask-2                 # All files used for ST2
+├── subtask-1           # All files used for ST1
+├── subtask-2           # All files used for ST2
 
 ```
 
