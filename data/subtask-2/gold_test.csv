@@ -1,0 +1,84 @@
+,Unnamed: 0,document,file_path,split,premise,gold,our_type,Unnamed: 7,type
+66,101,21,v2.0/positive/21.xml,positive," I know that the chocolates I love to eat contain, in all likelihood, cacao that was farmed by people living in truly deplorable conditions. ",logos,logos,logos,logos_pathos
+18,23,21,v2.0/positive/21.xml,positive," which you see frequently among people in empathy-intensive occupations (especially medicine, education, and other fields where issues outside the individual's control tend to produce strong feelings of frustration and futility). ",ethos,ethos,ethos,logos_pathos
+42,65,79,v2.0/negative/79.xml,negative,An aborted fetus is likely to have been a less productive person than a never-considered-for-abortion fetus,logos,logos,logos,logos_pathos
+67,102,19,v2.0/positive/19.xml,positive,"As for the “They’re not risking their lives for our country.” argument, police officers do that too, and for citizens rather than the country and its interests.",logos,pathos,logos,logos_pathos
+55,84,94,v2.0/negative/94.xml,negative,As if creating jobs for americans is morally superior to creating jobs for people of other countries.,pathos,pathos,pathos,logos_pathos
+5,7,10,v2.0/negative/10.xml,negative,"As soon as it becomes a reasonable assumption, immediately escalating a conflict to deadly force starts being the best option.",logos,logos,ethos,logos_pathos
+80,123,99,v2.0/negative/99.xml,negative,"Because of the anonymity on 4chan people are more prone to not think through, care about what they post and are quicker to throw out insults.",logos,logos,logos,logos_pathos
+48,72,301,v2.0/negative/301.xml,negative,"By fortifying themselves in their gated communities with rows upon rows of automated defences, all unburdened by humans with consciences and families, they can simply wait for everyone to starve or get killed while they bask in their machine generated wealth.",logos,logos,pathos,logos_pathos
+13,17,68,v2.0/negative/68.xml,negative,For I will be dead and won't know what I did,logos,logos,logos,logos_pathos
+7,9,79,v2.0/negative/79.xml,negative,"Good meat or bad meat, instead of people with a variety of skill potential and problems",logos,x,x,logos_pathos
+15,20,99,v2.0/negative/99.xml,negative,He seemed ok appart from the shock and high level drunkenness.,ethos,ethos,ethos,logos_pathos
+63,96,82,v2.0/positive/82.xml,positive,"I don't see it as one wanting to gain some type of status from it attached to themselves, but instead the gratification of having others pleasure themselves to their nudity.",pathos,pathos,pathos,logos_pathos
+81,124,279,v2.0/negative/279.xml,negative,"I don't understand how posting images of yourself naked, often with the understanding that others will masturbate to you (/r/gonewild for example) is not empowering but instead a form of whoring yourself out in a sense.",logos,pathos,logos,logos_pathos
+35,55,247,v2.0/negative/247.xml,negative,I enjoyed the theatrical cut when I first watched it but the extended was probably better when I had a lot of free time and wanted to watch a favourite movie in a different way.,logos,logos,ethos,ethos
+23,37,98,v2.0/positive/98.xml,positive,I had parents who were extremely persistent about making sure i stayed on track.,ethos,ethos,ethos,ethos
+52,78,85,v2.0/positive/85.xml,positive,"I know a guy who eats, sleeps, and breathes circuit design.",ethos,ethos,pathos,logos_pathos
+34,54,87,v2.0/negative/87.xml,negative,"I know from personal experience that people go vegan/vegetarian for a huge variety of reasons, from personal health to carbon footprint to animal welfare to ethics of eating meat to budget (meat is expensive).",ethos,ethos,ethos,ethos
+25,39,27,v2.0/positive/27.xml,positive,I know several of them (I understand that anecdotal evidence is not the best kind of evidence but there you have it).,ethos,ethos,ethos,ethos
+82,125,21,v2.0/positive/21.xml,positive,I know that the salad I'm planning to eat for lunch contains ingredients that were probably farmed in environmentally destructive ways that contribute to climate change.,pathos,pathos,pathos,logos_pathos
+37,58,11,v2.0/positive/11.xml,positive,I know the IQ test has its faults and every policy can be abused,ethos,ethos,ethos,logos_pathos
+30,45,258,v2.0/negative/258.xml,negative,I never put in extra time on classes.,ethos,ethos,ethos,ethos
+29,44,258,v2.0/negative/258.xml,negative,"I recently took a class I enjoy, DSP. I had done previous DSP work for a couple semesters and had much more experience than almost everyone in class but I still put serious work in.",ethos,ethos,ethos,ethos
+39,61,10,v2.0/positive/10.xml,positive,"I think it's counterproductive, antagonizing and in poor taste.",pathos,pathos,pathos,logos_pathos
+21,35,80,v2.0/positive/80.xml,positive,"I want to be a doctor, not because of familial pressure but of a genuine need to help",ethos,pathos,ethos,ethos
+27,42,89,v2.0/positive/89.xml,positive,I'm Unitarian Universalist,ethos,ethos,ethos,ethos
+32,48,263,v2.0/negative/263.xml,negative,I'm a middle aged female.,ethos,ethos,ethos,ethos
+33,49,266,v2.0/negative/266.xml,negative,I'm an immigrant and a Muslim neither of which is or should be a deterrent from joining,ethos,logos,ethos,ethos
+26,40,12,v2.0/positive/12.xml,positive,"I'm sorry, maybe I shouldn't have posted this topic.",pathos,pathos,pathos,ethos
+31,47,256,v2.0/negative/256.xml,negative,"I've had lots of swimming lessons, and I just can't catch on. ",ethos,ethos,ethos,ethos
+59,89,32,v2.0/negative/32.xml,negative,"If a mother can make 2, and has twins, she can't make more, but if she already has one and has twins after one which makes 3, we're not gonna kill one",logos,logos,logos,logos_pathos
+14,18,79,v2.0/negative/79.xml,negative,Imagine this country to be populated by billions of faces,pathos,pathos,x/pathos,logos_pathos
+12,16,82,v2.0/positive/82.xml,positive,"In anticipating this inevitability, aren't they then giving away they're nudes essentially for anyone to recurve sexual pleasure from?",logos,logos,logos,logos_pathos
+19,24,84,v2.0/positive/84.xml,positive,Individuals who are extraordinarily qualified for a position but come from a region/social background without those connections enter a networking-friendly employment opportunity at a disadvantage.,logos,logos,logos,logos_pathos
+4,6,86,v2.0/positive/86.xml,positive,"It wasn't a made for TV movie, but that's what ended up happening to it.",logos,x,x,logos_pathos
+16,21,82,v2.0/positive/82.xml,positive,"Just because you don't find it empowering to post nudes, doesn't mean other people won't.",ethos,ethos,ethos,logos_pathos
+8,11,10,v2.0/negative/10.xml,negative,"Let's say you're a drug addict and due to your addiction you can't hold down a job, are really strung out and resort to one of the stupidest ways to make $100 for your next fix which is mugging people on the street.",pathos,pathos,pathos,logos_pathos
+36,57,334,v2.0/negative/334.xml,negative,"Like many American kids, I was often forced throughout my childhood to participate in ""Monopoly"" games with my family.",ethos,pathos,ethos,ethos
+41,64,68,v2.0/positive/68.xml,positive,"Like, most people don't memorize all of Romeo and Juliet.",logos,logos,x,logos_pathos
+3,5,71,v2.0/positive/71.xml,positive,Maybe fixing that issue will resolve the motivation to cheat.,pathos,pathos,pathos,logos_pathos
+46,70,12,v2.0/positive/12.xml,positive,"Maybe the hypothetical game is annoying and not productive, but its not intellectually dishonest...",pathos,x,pathos,logos_pathos
+70,106,75,v2.0/negative/75.xml,negative,More corn is produced for livestock than humans.,logos,logos,logos,logos_pathos
+22,36,83,v2.0/positive/83.xml,positive,"Much of the surviving ancient sculptures and paintings show the nakedness of the human form, and this art compares us to heroes and gods as did much of the writing and philosophy of the time as we tried to figure out our ""meaning"" in the universe.",ethos,ethos,ethos,ethos
+54,82,92,v2.0/negative/92.xml,negative,My comment was a silly way to point out a flaw in your post.,pathos,pathos,pathos,logos_pathos
+64,98,80,v2.0/positive/80.xml,positive,"Neurosurgery is already competitive, and the military's neurosurgery residencies are extremely limited.",logos,ethos,logos,logos_pathos
+2,4,96,v2.0/positive/96.xml,positive,"No, we're probably never going to get money out of politics entirely",logos,x,x,logos_pathos
+69,104,79,v2.0/negative/79.xml,negative,"Once you learn what you don't know, you will have made a dent in knowledge akin to the damage a dove would do to a mountain if it few by lightly brushing it with the tip of its wing",pathos,ethos,pathos,logos_pathos
+57,86,86,v2.0/negative/86.xml,negative,"People are smart, printed books still exist, where the average group of city slickers could get enough knowledge to plant some crops and survive off the land.",logos,logos,logos,logos_pathos
+60,90,10,v2.0/negative/10.xml,negative,"Remember, you're an addict and not getting the money is not an option.",pathos,logos,pathos,logos_pathos
+6,8,5,v2.0/positive/5.xml,positive,"Say if 1 out of 5 people carried a gun with them, was well trained in its use and tested in his responsibility to prevent its misuse",logos,logos,logos,logos_pathos
+50,76,94,v2.0/negative/94.xml,negative,"Saying these people shouldn’t be allowed to become part of the country, is the same as saying they are worse,",pathos,pathos,pathos,logos_pathos
+44,68,88,v2.0/positive/88.xml,positive,"Since some of this automation will inevitably come to weapons, the wealthy will have the perfect opportunity to commit genocide on the 99%.",pathos,ethos,pathos,logos_pathos
+47,71,11,v2.0/positive/11.xml,positive,"So someone with near average intelligence (near 100 IQ, 75-124) would have their IQ rounded to 100 and then divided by 50 to make 2 offspring.",logos,x,logos,logos_pathos
+17,22,92,v2.0/positive/92.xml,positive,"Thanks to baby Jesus' healing powers even her hymen immediately regenerated, kind of like the redhead vampire from True Blood or the cheerleader from Heroes",pathos,pathos,pathos,logos_pathos
+38,60,77,v2.0/positive/77.xml,positive,"The excess value goes to all of them, who spend it on many things",logos,logos,logos,logos_pathos
+65,99,67,v2.0/positive/67.xml,positive,"The finale of ME3 goes from a completely unsatisfying throughly annoying ending that ignored the themes of choice and self-determination that had been going on through the game into one final, desperate chance to make it right, instead.",ethos,ethos,pathos,logos_pathos
+40,62,79,v2.0/negative/79.xml,negative,Then why is this post so popular?,pathos,pathos,x,logos_pathos
+72,109,81,v2.0/positive/81.xml,positive,"There are few if any changes in gameplay, and the basic level design for the most part, remains the same.",logos,ethos,logos,logos_pathos
+78,120,94,v2.0/positive/94.xml,positive,There are many things we used to consider extreme that are now fundamental principles of our society.,logos,logos,logos,logos_pathos
+51,77,91,v2.0/negative/91.xml,negative,"Therefore, there will always be a market for meat and other animal products",logos,logos,logos,logos_pathos
+61,92,67,v2.0/negative/67.xml,negative,This is the state that we return to after death--a state of nothingness similar to the state we were in before birth,pathos,pathos,pathos,logos_pathos
+49,74,86,v2.0/positive/86.xml,positive,"Those who worked on it went on to do great things, and those who stumbled across it remember it.",ethos,ethos,ethos,logos_pathos
+74,112,66,v2.0/negative/66.xml,negative,"To me, it is as if my life had never happened",ethos,ethos,pathos,logos_pathos
+20,29,67,v2.0/negative/67.xml,negative,"We are simply at one point along a path, and that's the ""now""",logos,logos,logos,logos_pathos
+0,2,95,v2.0/negative/95.xml,negative,What you said is definitely true about patriots,logos,x,x,logos_pathos
+58,87,12,v2.0/positive/12.xml,positive,"Which is basically like saying if unicorns were real, they would be real.",logos,logos,logos,logos_pathos
+85,129,90,v2.0/negative/90.xml,negative,You are correct that it may reduce the demand for meat from *slightly* less cruel farms,logos,logos,logos,logos_pathos
+53,81,67,v2.0/positive/67.xml,positive,You're already taking a good bit time to play the game,pathos,pathos,pathos,logos_pathos
+28,43,89,v2.0/positive/89.xml,positive,"a large part of this view came from something a history teacher told me 6 years ago: ""Geography Determines Destiny"", and that quote has stuck with me",ethos,ethos,ethos,ethos
+75,115,69,v2.0/negative/69.xml,negative,but that’s [usually] the fault of their leaders and therefore not relevant to the debate.,logos,logos,logos,logos_pathos
+83,126,74,v2.0/positive/74.xml,positive,"cardio, able to be done at a variety of speeds over a variety of distances, making it suitable for a wide range of fitness levels",logos,logos,logos,logos_pathos
+43,67,96,v2.0/positive/96.xml,positive,"corporations being able to anonymously fund entire campaigns is a major threat to healthy government, even if it isn't, strictly speaking, un-democratic",logos,logos,pathos,logos_pathos
+10,13,94,v2.0/negative/94.xml,negative,especially when you live in a country as large as the U.S. most acts which serve the common good generally support your country,pathos,pathos,pathos,logos_pathos
+24,38,98,v2.0/positive/98.xml,positive,im 20 years old,ethos,ethos,ethos,ethos
+79,121,79,v2.0/negative/79.xml,negative,it was really tailored to challenge your reasoning style,logos,logos,logos,logos_pathos
+62,94,256,v2.0/negative/256.xml,negative,"low-impact, making it suitable for older people, people with recent injuries, or those with longer-term joint problems",logos,logos,logos,logos_pathos
+77,118,78,v2.0/positive/78.xml,positive,"once I reach a certain threshold with a guy-friend, I find that we become best friends",ethos,pathos,logos,logos_pathos
+56,85,68,v2.0/negative/68.xml,negative,"once they die, they won't know either",logos,logos,logos,logos_pathos
+45,69,83,v2.0/negative/83.xml,negative,"one of the failures of communism was the lack of incentive, with a part capitalism those with drive can still succeed, but everyone else will still have basic living tools,",logos,logos,ethos,logos_pathos
+76,117,248,v2.0/negative/248.xml,negative,"other than anecdotal evidence, I haven't seen anything to support this claim.",logos,logos,logos,logos_pathos
+84,128,79,v2.0/positive/79.xml,positive,the man tries to show the woman how non-threatening and valuable he is from a non-romantic standpoint before she is comfortable with allowing herself to think of him as a safe partner,logos,logos,logos,logos_pathos
+9,12,95,v2.0/positive/95.xml,positive,their will always be a few bad apples,logos,logos,logos,logos_pathos
+11,14,18,v2.0/positive/18.xml,positive,there is no afterlife,logos,??,x,logos_pathos
+1,3,76,v2.0/positive/76.xml,positive,when this system scales up you need to include the boss buying things.,logos,logos,logos,logos_pathos
