@@ -18,6 +18,10 @@ First make sure to install all requirements by using:
 
 ### Subtask 1
 
+To run the code that belongs to the first subtask, you have to navigate to the [subtask1 notebook](subtask-1/Subtask1.ipynb).
+
+This notebook contains all the code necessary for completing the first subtask. Additional documentation can be  found within this notebook.
+
 
 ### Subtask 2
 
