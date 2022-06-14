@@ -3,10 +3,10 @@
 
 ## Contributers
 
-**Boris de Jong** | S3212386
+**Boris de Jong**   | S3212386
 
 **Folkert Leistra** | S3469573
 
-**Joren Arkes** | S3545881
+**Joren Arkes**     | S3545881
 
-**Thijmen Dam** | S3360695
+**Thijmen Dam**     | S3360695
