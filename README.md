@@ -25,6 +25,10 @@ This notebook contains all the code necessary for completing the first subtask. 
 
 ### Subtask 2
 
+To run the code that belongs to the first subtask, you have to navigate to the [subtask2 notebook](subtask-2/Subtask2.ipynb).
+
+This notebook contains all the code necessary for completing the first subtask. Additional documentation can be  found within this notebook.
+
 ## Contents
 ``tree -d -L 2``
 
